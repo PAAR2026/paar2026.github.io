@@ -1,11 +1,9 @@
-## 9TH WORKSHOP ON PRACTICAL ASPECTS OF AUTOMATED REASONING
-<p style="text-align: center;">Co-located with IJCAR 2024, July 2, 2024, Nancy, France</p>
+## 10TH WORKSHOP ON PRACTICAL ASPECTS OF AUTOMATED REASONING
+<p style="text-align: center;">Co-located with IJCAR 2026, as part of FLoC 2026, July 25, 2026, Lisbon, Portugal</p>
 
 ### General Information
-The Ninth Workshop on Practical Aspects of Automated Reasoning will take place on July 2 2024
-in Nancy, France. PAAR 2024 is associated with the 12th International Joint Conference on Automated Reasoning (<a href="https://merz.gitlabpages.inria.fr/2024-ijcar/">IJCAR 2024</a>).
-
-<p style="border:1px solid black;padding: 2px 4px"><b>PAAR proceedings are available!</b> See <a href="{{ "proceedings.html" }}">Proceedings</a>.</p>
+The Tenth Workshop on Practical Aspects of Automated Reasoning will take place on July 25 2026
+in Lisbon, Portugal. PAAR 2026 is associated with the 13th International Joint Conference on Automated Reasoning (<a href="https://www.floc26.org/ijcar">IJCAR 2026</a>) which is part of the Federated Logic Conference ([FLoC 2026](https://www.floc26.org)).
 
 ### Scope
 PAAR provides a forum for developers of automated reasoning tools to discuss and compare different
