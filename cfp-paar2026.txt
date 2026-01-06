@@ -1,15 +1,16 @@
 ******************************************************************************
                                                                             
                                                                              
-        PAAR-2024: 9TH WORKSHOP ON PRACTICAL ASPECTS OF AUTOMATED REASONING 
-                   -- co-located with IJCAR 2024  -- 
+        PAAR-2026: 10TH WORKSHOP ON PRACTICAL ASPECTS OF AUTOMATED REASONING 
+                   -- co-located with IJCAR 2026  --
+                   --    as part of FLoC 2026     --
                                                                             
-                      July 2, 2024, Nancy, France
+                    July 25, 2026, Lisbon, Portugal
 
-        Web site: https://paar2024.github.io/
-        Submission link: https://easychair.org/conferences/?conf=paar2024
-        Abstract registration deadline: April 5, 2024
-        Submission deadline: April 12, 2024
+        Web site: https://paar2026.github.io/
+        Submission link: https://submissions.floc26.org/paar
+        Abstract registration deadline: April 22, 2026
+        Submission deadline: April 29, 2026
         Topics: automated reasoning, implementation, tools
 
 
@@ -77,28 +78,9 @@ Programme Committee
 -------------------
 
 * Cláudia Nalon, University of Brasília, BR (PC co-chair)
-* Alexander Steen, University of Greifswald, DE (PC co-chair)
 * Martin Suda, Czech Technical University in Prague, CZ (PC co-chair)
-* Gabriel Ebner, Microsoft Research, US
-* Hans de Nivelle, Nazarbayev University, KZ
-* Mathias Fleury, University of Freiburg, DE
-* Pascal Fontaine, Université de Liège, BE
-* Ulrich Furbach, University of Koblenz, DE
-* Jan Jakubuv, Czech Technical University in Prague, CZ
-* Cezary Kaliszyk, University of Innsbruck, AT
-* Daniela Kaufmann, TU Vienna, AU
-* Boris Konev, University of Liverpool, UK
-* Daniel Le Berre, CNRS - Université d’Artois, FR
-* Ondrej Lengal, Brno University of Technology, CZ
-* Tomer Libal, University of Luxembourg, LU
-* Michael Rawson, TU Vienna, AU
-* Philipp Ruemmer, Uppsala University, SE
-* Renate A. Schmidt, The University of Manchester, UK
-* Stephan Schulz, DHBW Stuttgart, DE
-* Frieder Stolzenburg, Harz University of Applied Sciences, DE
-* Geoff Sutcliffe, University of Miami, US
-* Sophie Tourret, Inria and MPI for Informatics, DE
-* Zsolt Zombori, Alfréd Rényi Institute of Mathematics, Hungarian Academy of Sciences, HU
+* Márton Hajdu, TU Wien, Vienna, AU (PC co-chair)
+* TBD
 
 Publication
 -----------
@@ -108,10 +90,10 @@ EasyChair Kalpa proceedings).
 
 Venue
 -----
-IJCAR 2024 in Nancy, France
+IJCAR 2026 in Lisbon, Portugal
 
 Important dates
 ---------------
-* Abstract submission: April 5, 2024
-* Paper submission: April 12, 2024
-* Workshop: July 2, 2024
+* Abstract submission: April 22, 2026
+* Paper submission: April 29, 2026
+* Workshop: July 25, 2026
