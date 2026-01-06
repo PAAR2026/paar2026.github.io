@@ -1,10 +1,10 @@
 # Name of website
-title: PAAR 2024
+title: PAAR 2026
 
 # Your name to show in the footer
-author: PAAR 2024 organizers
+author: PAAR 2026 organizers
 
-description: 9th Workshop on Practical Aspects of Automated Reasoning
+description: 10th Workshop on Practical Aspects of Automated Reasoning
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
