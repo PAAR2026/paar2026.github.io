@@ -4,4 +4,5 @@ Registration to PAAR 2026 is handled via the central registration system of FLoC
 
 ### Important dates for registration
 
-TBD
+- Early-bird registration deadline: June 1, 2026
+- Regular registration deadline: July 13, 2026
