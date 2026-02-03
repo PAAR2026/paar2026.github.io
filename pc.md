@@ -5,7 +5,16 @@
 * [Cláudia Nalon](https://nalon.org/), University of Brasília, BR (PC co-chair)
 * [Martin Suda](https://ricaip.eu/martin-suda/), Czech Technical University in Prague, CZ (PC co-chair)
 * [Márton Hajdu](https://mezpusz.github.io/), TU Wien, Vienna, AU (PC co-chair)
-* TBD
+* Mathias Fleury, University of Freiburg, DE
+* Pascal Fontaine, Université de Liège, BE
+* Daniela Kaufmann, TU Wien, AU
+* Tomer Libal, University of Luxembourg, LU
+* Michael Rawson, University of Southampton, UK
+* Frieder Stolzenburg, Harz University of Applied Sciences, DE
+* Geoff Sutcliffe, University of Miami, US
+* Sophie Tourret, Inria and MPI for Informatics, DE
+* Zsolt Zombori, Alfréd Rényi Institute of Mathematics, Hungarian Academy of Sciences, HU
+* TBD...
 
 ### Steering Committee
 
