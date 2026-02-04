@@ -4,12 +4,17 @@
 
 * [Cláudia Nalon](https://nalon.org/), University of Brasília, BR (PC co-chair)
 * [Martin Suda](https://ricaip.eu/martin-suda/), Czech Technical University in Prague, CZ (PC co-chair)
-* [Márton Hajdu](https://mezpusz.github.io/), TU Wien, Vienna, AU (PC co-chair)
+* [Márton Hajdu](https://mezpusz.github.io/), TU Wien, AT (PC co-chair)
+* Hans de Nivelle, Nazarbayev University, KZ
 * Mathias Fleury, University of Freiburg, DE
 * Pascal Fontaine, Université de Liège, BE
-* Daniela Kaufmann, TU Wien, AU
+* Ulrich Furbach, University of Koblenz, DE
+* Cezary Kaliszyk, University of Melbourne, AU
+* Daniela Kaufmann, TU Wien, AT
 * Tomer Libal, University of Luxembourg, LU
 * Michael Rawson, University of Southampton, UK
+* Renate A. Schmidt, The University of Manchester, UK
+* Stephan Schulz, DHBW Stuttgart, DE
 * Frieder Stolzenburg, Harz University of Applied Sciences, DE
 * Geoff Sutcliffe, University of Miami, US
 * Sophie Tourret, Inria and MPI for Informatics, DE
