@@ -13,6 +13,7 @@
 * Daniela Kaufmann, TU Wien, AT
 * Tomer Libal, University of Luxembourg, LU
 * Michael Rawson, University of Southampton, UK
+* Philipp Ruemmer, Uppsala University, SE
 * Renate A. Schmidt, The University of Manchester, UK
 * Stephan Schulz, DHBW Stuttgart, DE
 * Frieder Stolzenburg, Harz University of Applied Sciences, DE
