@@ -11,6 +11,9 @@
 * Ulrich Furbach, University of Koblenz, DE
 * Cezary Kaliszyk, University of Melbourne, AU
 * Daniela Kaufmann, TU Wien, AT
+* Boris Konev, University of Liverpool, UK
+* Daniel Le Berre, CNRS - Université d’Artois, FR
+* Ondrej Lengal, Brno University of Technology, CZ
 * Tomer Libal, University of Luxembourg, LU
 * Michael Rawson, University of Southampton, UK
 * Philipp Ruemmer, Uppsala University, SE
@@ -20,7 +23,6 @@
 * Geoff Sutcliffe, University of Miami, US
 * Sophie Tourret, Inria and MPI for Informatics, DE
 * Zsolt Zombori, Alfréd Rényi Institute of Mathematics, Hungarian Academy of Sciences, HU
-* TBD...
 
 ### Steering Committee
 
