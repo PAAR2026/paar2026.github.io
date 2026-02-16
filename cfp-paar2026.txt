@@ -84,6 +84,7 @@ Programme Committee
 * Mathias Fleury, University of Freiburg, DE
 * Pascal Fontaine, Université de Liège, BE
 * Ulrich Furbach, University of Koblenz, DE
+* Jan Jakubuv, Czech Technical University in Prague, CZ
 * Cezary Kaliszyk, University of Melbourne, AU
 * Daniela Kaufmann, TU Wien, AT
 * Boris Konev, University of Liverpool, UK
