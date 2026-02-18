@@ -1,8 +1,8 @@
 ## Important Dates
 
-* Abstract submission: April 22, 2026
-* Paper submission: April 29, 2026
-* Author notification: June 10, 2026
+* Abstract submission: April 14, 2026
+* Paper submission: April 21, 2026
+* Author notification: May 12, 2026
 * Camera-ready paper versions due: July 1, 2026
 * Workshop: July 25, 2026
 

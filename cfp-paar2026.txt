@@ -9,8 +9,8 @@
 
         Web site: https://paar2026.github.io/
         Submission link: https://submissions.floc26.org/paar
-        Abstract registration deadline: April 22, 2026
-        Submission deadline: April 29, 2026
+        Abstract registration deadline: April 14, 2026
+        Submission deadline: April 21, 2026
         Topics: automated reasoning, implementation, tools
 
 
@@ -112,6 +112,8 @@ IJCAR 2026 in Lisbon, Portugal
 
 Important dates
 ---------------
-* Abstract submission: April 22, 2026
-* Paper submission: April 29, 2026
+* Abstract submission: April 14, 2026
+* Paper submission: April 21, 2026
+* Author notification: May 12, 2026
+* Camera-ready paper versions due: July 1, 2026
 * Workshop: July 25, 2026
