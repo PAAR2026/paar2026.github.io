@@ -7,3 +7,5 @@ Submissions should be in PDF. Final versions should be prepared in LaTeX using t
 Call for Papers: Available as [Plaintext file](cfp-paar2026.txt).
 
 Submission URL via FLoC'26 website (HotCrp): [https://submissions.floc26.org/paar/](https://submissions.floc26.org/paar/)
+
+Author agreement for [papers with no copyrighted third-party material](https://github.com/PAAR2026/paar2026.github.io/blob/master/ceur-author-agreement-ccby-ntp.pdf) and [papers with copyrighted third-party material](https://github.com/PAAR2026/paar2026.github.io/blob/master/ceur-author-agreement-ccby-tp.pdf).
