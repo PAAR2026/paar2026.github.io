@@ -15,7 +15,7 @@
 * Boris Konev, University of Liverpool, UK
 * Daniel Le Berre, CNRS - Université d’Artois, FR
 * Ondrej Lengal, Brno University of Technology, CZ
-* Tomer Libal, University of Luxembourg, LU
+* Tomer Libal, Enidia AI, LU
 * Michael Rawson, University of Southampton, UK
 * Philipp Ruemmer, Uppsala University, SE
 * Renate A. Schmidt, The University of Manchester, UK
