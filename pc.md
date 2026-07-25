@@ -17,12 +17,12 @@
 * Ondrej Lengal, Brno University of Technology, CZ
 * Tomer Libal, Enidia AI, LU
 * Michael Rawson, University of Southampton, UK
-* Philipp Ruemmer, Uppsala University, SE
+* Philipp Ruemmer, University of Regensburg, DE and Uppsala University, SE
 * Renate A. Schmidt, The University of Manchester, UK
 * Stephan Schulz, DHBW Stuttgart, DE
 * Frieder Stolzenburg, Harz University of Applied Sciences, DE
 * Geoff Sutcliffe, University of Miami, US
-* Sophie Tourret, Inria and MPI for Informatics, DE
+* Sophie Tourret, Inria, FR and MPI for Informatics, DE
 * Zsolt Zombori, Alfréd Rényi Institute of Mathematics, Hungarian Academy of Sciences, HU
 
 ### Steering Committee
