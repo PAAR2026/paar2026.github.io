@@ -23,7 +23,7 @@
 * Frieder Stolzenburg, Harz University of Applied Sciences, DE
 * Geoff Sutcliffe, University of Miami, US
 * Sophie Tourret, Inria, FR and MPI for Informatics, DE
-* Zsolt Zombori, Alfréd Rényi Institute of Mathematics, Hungarian Academy of Sciences, HU
+* Zsolt Zombori, HUN-REN Alfréd Rényi Institute of Mathematics, HU
 
 ### Steering Committee
 
